@@ -90,4 +90,4 @@ output <- melt(output, id = c('subjectID','activityCode','description'))
 
 # save output to a csv
 
-write.csv(output,file="output.csv", row.names=FALSE, quote=FALSE)
+write.table(output,file="output.txt", row.names=FALSE)
