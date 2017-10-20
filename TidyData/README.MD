@@ -49,6 +49,6 @@ The same process is repeated for the Test dataset.
 
 #### 3: Extract only signal measurements that have 'mean' or 'std' in the name
 
-#### 4: Use melt & dcast to reshape the dataframe for getting averages and formatting into Long-format 
+#### 4: Use melt & dcast to reshape the dataframe for getting averages and formatting into a long-format 
 
 #### 5: Write final output to a text file named: output.txt
