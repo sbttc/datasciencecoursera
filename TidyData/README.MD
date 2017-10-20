@@ -51,4 +51,4 @@ The same process is repeated for the Test dataset.
 
 #### 4: Use melt & dcast to reshape the dataframe for getting averages and formatting into Long-format 
 
-#### 5: Write final output to a csv
+#### 5: Write final output to a text file named: output.txt
