@@ -1,9 +1,9 @@
 # Code Book
-This project utilizes dataset downloaded from  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+This project utilizes datasets downloaded from  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Study Design
 
-- The dataset contains experiments carried out with a group of 30 volunteers. Each participant is represented by an integer (1-30).
+- The datasets contain experiments carried out with a group of 30 volunteers. Each participant is represented by an integer (1-30).
 
 - Each subject performed any of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Signatures were recored from these wearables.
 
